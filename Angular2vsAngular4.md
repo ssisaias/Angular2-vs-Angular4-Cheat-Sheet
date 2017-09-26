@@ -12,7 +12,7 @@ Angular 4:
     <div *ngIf="condition; else conditionNotTrue"></div>
 
     <ng-template #conditionNotTrue> </ng-template>
-    <!-- Note it uses ng-template on angualar 4-->
+    <!-- Note it uses ng-template on Angular  4-->
 ```
 
 * ## ...and Better ngFor 
